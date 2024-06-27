@@ -1,0 +1,10 @@
+=== Log Initialized at Thu Jun 27 15:52:38 2024 ===
+[ERROR] [Thu Jun 27 15:52:56 2024] Could not open file 1.txt for reading
+[INFO] [Thu Jun 27 15:53:05 2024] Appended to file: 1.txt
+[INFO] [Thu Jun 27 15:53:05 2024] Read from file: 1.txt
+[INFO] [Thu Jun 27 15:53:16 2024] Read from file: abc.txt
+[INFO] [Thu Jun 27 15:53:23 2024] Appended to file: abc.txt
+[INFO] [Thu Jun 27 15:53:23 2024] Read from file: abc.txt
+[INFO] [Thu Jun 27 15:53:27 2024] Appended to file: abc.txt
+[INFO] [Thu Jun 27 15:53:27 2024] Read from file: abc.txt
+=== Log Closed at Thu Jun 27 15:53:31 2024 ===
