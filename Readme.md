@@ -56,6 +56,9 @@ $ gcc -Wall -Werror -Wextra game_of_life.c -o game_of_life -lncurses && ./game_o
 ## Вывести произведение нечетных чисел числа
 - Каталог с программой: [mult_of_odd_numbers](mult_of_odd_numbers/)
 
+## Вывести биномиальные коэффициенты
+- Каталог с программой: [printing_binomial_coefficients](printing_binomial_coefficients/)
+
 ## Библиотека функций для работы со строками
 - Каталог с программой: [string_func](string_func/)
 - Реализованы основные функции для работы со строками, а также набор соответствующих юнит-тестов
